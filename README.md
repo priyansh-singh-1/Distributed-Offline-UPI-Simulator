@@ -286,7 +286,7 @@ Install:
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/offline-upi-simulator.git
+git clone https://github.com/priyansh-singh-1/Distributed-Offline-UPI-Simulator.git
 cd offline-upi-simulator/backend
 ```
 
